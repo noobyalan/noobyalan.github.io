@@ -4,9 +4,9 @@
 baseurl:
 url: https://noobyalan.github.io
 date_format: "ordinal"
-title: nooby alan
+title: Nooby Alan
 subtitle: "我的学习日志"
-description: "nooby alan的学习日志"
+description: "Nooby Alan的学习日志"
 keywords: nooby alan, open os, studying, coding
 timezone: Asia/Shanghai
 encoding: "utf-8"
