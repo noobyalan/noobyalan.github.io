@@ -1,7 +1,12 @@
-- name: Programming Euthusiast Keywords
+- name: Programming 
   keywords:
       - Java
       - Rust
       - Python
 
+- name: Art 
+  keywords:
+      - Guitar
+      - Painting
+      - Piano
 
